@@ -21,7 +21,7 @@ elif a==8:
   print("восемь")
 elif a==9:
   print("девять")
-else a==10:
+elif a==10:
   print("десять")
 elif a==11:
   print("одиннадцать")
@@ -41,5 +41,5 @@ elif a==18:
   print("восемнадцать")
 elif a==19:
   print("девятнадцать")
-else a==10:
+else a==20:
 print("двадцать")
